@@ -1,6 +1,8 @@
 # VB6_StringBuilder
 VB 6 String Builder Class
 
+Very useful VB 6 string utility reproduced from http://vbaccelerator.com
+
 ======================================================================================
 Name:     vbAccelerator cStringBuilder
 Author:   Steve McMahon (steve@vbaccelerator.com)
